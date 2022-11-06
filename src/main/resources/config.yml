@@ -1,0 +1,13 @@
+groups:
+  admin: '&x&f&f&2&4&0&0[%luckperms_prefix%] %player_name%'
+  moderation: '&x&9&b&5&9&b&6[%luckperms_prefix%] %player_name%'
+  tech: '&x&3&7&f&1&0&8[%luckperms_prefix%] %player_name%'
+headers:
+  - |
+    &9Welcome to
+    &5Kingdom: Dark Ages
+footers:
+  - |
+    &9Visit the website at:
+    &bhttps://kingdomdarkages.enjin.com/
+update-frequency: 100 # ticks

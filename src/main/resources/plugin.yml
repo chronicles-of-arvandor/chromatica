@@ -1,0 +1,6 @@
+name: chromatica
+author: alyphen
+version: @version@
+main: com.enjin.kingdomdarkages.chromatica.Chromatica
+api-version: 1.18
+depend: [PlaceholderAPI]
